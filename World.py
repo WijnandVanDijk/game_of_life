@@ -1,6 +1,6 @@
 import numpy as np
 from typing import List
-
+#test
 class World:
     """
     Data structure for representing Game of Life worlds.
